@@ -1,8 +1,17 @@
-# map
+# Home screen
 
-Map
+![Home screen](screenshots/1.png)
 
-## Getting Started
+# Map type
+![Map Type](screenshots/2.png)
+
+# GPRMC Modal
+![GPRMC Modal](screenshots/3.png)
+
+# Graphed location
+![Graphed location](screenshots/4.png)
+![Graphed location](screenshots/5.png)
+
 
 This project is a starting point for a Flutter application.
 
